@@ -1,1 +1,29 @@
 # HuskyFoodBank
+![image](https://user-images.githubusercontent.com/91034728/147982936-4ef0e1d1-796a-4b24-a946-bae59ea0a2ed.png)
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+* [Contributor](#contributor)
+
+## General info
+This is my final project for an Application Development course taught at Northeastern University. 
+The purpose of this project is to utilize what we have learned about application development to provide a solution that connects multiple agencies for a better communication, and to distribute resources with higher sustainability and efficiency.
+	
+## Technologies
+Project is created with:
+* JDK version: 17
+* Netbeans version: 12.5
+* jcalendar version: 1.4
+* ...
+	
+## Setup
+To run this project, install it locally using npm:
+
+```
+$ cd ../lorem
+$ npm install
+$ npm start
+
+## Contributor
+Yibing Zhu, Zheng Fang (@zackandaerith1)
