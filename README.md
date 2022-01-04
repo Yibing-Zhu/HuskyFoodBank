@@ -2,8 +2,9 @@
 ![image](https://user-images.githubusercontent.com/91034728/147982936-4ef0e1d1-796a-4b24-a946-bae59ea0a2ed.png)
 ## Table of contents
 * [General info](#general-info)
-* [Technologies](#technologies)
 * [Contributors](#contributors)
+* [Technologies](#technologies)
+
 
 ## General info
 This is my final project for an Application Development course taught at Northeastern University. 
