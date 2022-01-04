@@ -9,7 +9,7 @@
 
 
 ## General info
-This is my final project for an Application Development course taught at Northeastern University. 
+👋 Hi, this is my final project for an Application Development course taught at Northeastern University. 
 The purpose of this project is to utilize what we have learned about application development to provide a solution that connects multiple agencies for a better communication, and to distribute resources with higher sustainability and efficiency.
 
 ## Authors
