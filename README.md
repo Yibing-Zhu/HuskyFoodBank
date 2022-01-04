@@ -4,7 +4,6 @@
 * [General info](#general-info)
 * [Authors](#authors)
 * [Technologies](#technologies)
-* [Usage](#usage)
 * [License](#license)
 * [Acknowledgments](#acknowledgments)
 
@@ -26,9 +25,6 @@ Project is created with:
 * webcam-capure
 * java swing GUI
 * java mail API
-
-## Usage
-This project is 
 
 ## License
 Distributed under the MIT License.
