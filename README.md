@@ -1,6 +1,6 @@
 # HuskyFoodBank
-![image](https://user-images.githubusercontent.com/91034728/147982936-4ef0e1d1-796a-4b24-a946-bae59ea0a2ed.png)
-![pic02](https://user-images.githubusercontent.com/91034728/149221936-4c9a19e0-b221-437d-8673-bfe02ccf25bb.png)
+![image](https://user-images.githubusercontent.com/91034728/147982936-4ef0e1d1-796a-4b24-a946-bae59ea0a2ed.png=250x250)
+![pic02](https://user-images.githubusercontent.com/91034728/149221936-4c9a19e0-b221-437d-8673-bfe02ccf25bb.png=250x250)
 ## Table of contents
 * [General info](#general-info)
 * [Authors](#authors)
